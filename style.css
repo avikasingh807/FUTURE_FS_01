@@ -71,3 +71,11 @@ footer {
   background: #111;
   color: white;
 }
+section {
+  animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
