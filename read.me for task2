@@ -1,0 +1,40 @@
+# 📊 Simple CRM - Lead Management System
+
+A simple CRM (Customer Relationship Management) web application built to manage client leads generated from website contact forms.  
+This project helps track leads, update their status, and maintain follow-up notes.
+
+---
+
+## 🚀 Live Demo
+🔗 https://your-live-link.vercel.app  
+(Replace with your deployed link)
+
+---
+
+## 🧩 Features
+
+- 📋 Lead listing (Name, Email, Source, Status)
+- 🔄 Update lead status (New / Contacted / Converted)
+- 📝 Add notes and follow-ups for each lead
+- 🔐 Admin login system (if implemented)
+- 📊 Simple dashboard to manage leads
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend:
+- HTML5
+- CSS3
+- JavaScript / React.js (if used)
+
+### Backend:
+- Node.js
+- Express.js
+
+### Database:
+- MongoDB / MySQL
+
+---
+
+## 📂 Project Structure
